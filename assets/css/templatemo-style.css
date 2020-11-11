@@ -644,11 +644,12 @@ section.contact-me {
     border-radius: 0px;
     margin-bottom: 30px;
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
     height: 40px;
     line-height: 40px;
     width: 100%;
     padding-left: 15px;
+    filter: brightness(1.25);
 }
 
 #contact input:focus {
@@ -662,12 +663,13 @@ section.contact-me {
     border-radius: 0px;
     margin-bottom: 30px;
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
     height: 180px;
     max-height: 220px;
     line-height: 40px;
     width: 100%;
     padding-left: 15px;
+    filter: brightness(1.25);
 }
 
 #contact textarea:focus {
